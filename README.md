@@ -1,0 +1,3 @@
+Looking for a powerful tool to handle your transactions? Look no further than this smart contract! With its intuitive design, you can effortlessly receive and transfer money, while also checking your balance with ease. Streamline your financial transactions and take control of your finances today with this state-of-the-art smart contract.
+![Screenshot 2023-04-05 142109](https://user-images.githubusercontent.com/121374627/230112268-4950dfad-19e3-4dd0-9af0-db9ed3006cf1.png)
+![Screenshot 2023-04-05 142135](https://user-images.githubusercontent.com/121374627/230112285-63d93002-d06f-470f-8e51-7eead2cadc02.png)
